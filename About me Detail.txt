@@ -1,0 +1,15 @@
+My name is Sidh Prakash, and computers have always captivated me From a young age, I wasn't just drawn to the cool tech; I was drawn to the idea of how it all worked, the hidden language that brought these machines to life.This curiosity about computer hardwares eventually became the bridge that led me to the world of programming.
+
+My journey into the world of programming began in 2019 when I was introduced to Q basic and QB64 languages during my school days. While these languages may not be as mainstream as C++, Java, or Python, they provided me with a solid foundation and an initial glimpse into the world of programming.
+
+The lockdown and the COVID-19 pandemic presented an opportunity for me to dive deeper into programming. During this time, I explored the basics of programming and familiarized myself with popular languages such as Python, HTML, and CSS for website development. As I progressed, I also gained proficiency in C++ and JavaScript, albeit at a foundational level.
+
+Python became my new playground, its versatility allowing me to tackle different projects. I learned HTML and CSS, the building blocks for crafting websites, and brought my ideas to life on the web.
+
+As technology continued to advance, my curiosity led me to the realm of artificial intelligence (AI). With the launch of ChatGPT, Microsoft Copilot, Gemini, and other AI tools, I delved into machine learning algorithms such as Naive Bayes, Linear Regression, and utilized libraries like Matplotlib, Pandas, and NumPy. Platforms like Replit and GravityWrite further enriched my learning experience.
+
+This is just the beginning of my exploration. The world of technology is vast and ever-changing, and I'm excited to see where the journey takes me next. There are new programming languages to learn, new AI applications to explore, and countless problems waiting to be solved with code. The possibilities are endless, and I'm eager to keep building my skillset and contribute to this ever-evolving landscape.
+
+However, the journey isn't always smooth sailing. There are moments of frustration when code doesn't work as expected, or when a bug throws a wrench in my plans. But that's part of the learning process. Each challenge is an opportunity to grow, to find new solutions, and to become a better programmer. The thrill of finally cracking a problem and seeing my code come to life makes it all worthwhile.
+
+Ultimately, programming is more than just writing code; it's a way of thinking, a way to approach problems creatively and logically. It's about using my skills to build things, to solve problems, and to make a positive impact on the world. And that's what keeps me excited to keep learning and growing in this dynamic field.

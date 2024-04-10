@@ -1,0 +1,19 @@
+About Me:
+
+I'm Sidh Prakash, and my fascination with computers and gadgets has been a driving force in my life since childhood. My journey into the world of programming began in 2019 when I was introduced to Q basic and QB64 languages during my school days. While these languages may not be as mainstream as C++, Java, or Python, they provided me with a solid foundation and an initial glimpse into the world of programming.
+
+The lockdown and the COVID-19 pandemic presented an opportunity for me to dive deeper into programming. During this time, I explored the basics of programming and familiarized myself with popular languages such as Python, HTML, and CSS for website development. As I progressed, I also gained proficiency in C++ and JavaScript, albeit at a foundational level.
+
+As technology continued to advance, my curiosity led me to the realm of artificial intelligence (AI). With the launch of ChatGPT, Microsoft Copilot, Gemini, and other AI tools, I delved into machine learning algorithms such as Naive Bayes, Linear Regression, and utilized libraries like Matplotlib, Pandas, and NumPy. Platforms like Replit and GravityWrite further enriched my learning experience.
+
+Skills:
+
+    Programming Languages: Python, HTML, CSS, C++, JavaScript
+    Web Development: Frontend (HTML, CSS), Backend (Python, JavaScript), XML, JSON
+    Databases: SQL
+    Machine Learning: Naive Bayes, Linear Regression, Data Visualization (Matplotlib), Data Manipulation (Pandas, NumPy), OpenCV
+    Libraries: Tkinter, OpenCV
+    Tools: Replit, GravityWrite, ChatGPT, Microsoft Copilot, Gemini
+    Eagerness to Learn: I am adaptable and enthusiastic about exploring new technologies and tools, with a commitment to continuous improvement and staying updated with the latest trends in the industry.
+
+I bring a blend of passion, curiosity, and dedication to every endeavor, continually seeking opportunities to broaden my skills and contribute to the ever-evolving landscape of technology.

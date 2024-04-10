@@ -1,0 +1,77 @@
+.navigation {
+    display: flex;
+    height: 6vw;
+    background-color: darkcyan;
+  }
+  
+  .navigation a {
+    display: inline-block;
+    font-size: 1.5vw;
+    text-decoration: dashed;
+    padding-right: 2.7vw;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+  
+  .navigation a:hover {
+    color: white;
+    transition: 0.1s ease-in-out;
+    text-decoration: underline;
+  }
+  
+  .left {
+    width: 335px;
+    align-items: flex-start;
+  
+  }
+  
+  .left span {
+  
+    font-size: 25px;
+    /* Adjust font size as needed */
+    font-weight: bold;
+    /* Make the text bold */
+    color: #fff;
+    /* Set text color to white */
+    padding: 10px;
+    /* Add padding for better spacing */
+    text-transform: capitalize;
+    /* Convert text to uppercase */
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS';
+    /* Use a specific font family */
+    border-radius: 10px;
+    /* Add border radius for rounded corners */
+    margin-right: auto;
+    /* Push the text to the left */
+  
+  
+  }
+  
+  .left img {
+    width: 30%;
+    padding-bottom: 25px;
+  
+  }
+  
+  
+  .footer {
+    height: 9vw;
+  
+  }
+  
+  .searchbar {
+    padding: 1vw;
+    width: 8vw;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    outline: none;
+    font-size: 1vw;
+    transition: all 0.3s ease;
+  }
+  
+  .searchbar:focus {
+    border-color: #007bff;
+    /* Change border color on focus */
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+    /* Add shadow on focus */
+  }

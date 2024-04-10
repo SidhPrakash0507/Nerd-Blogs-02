@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .slider-container {
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+    white-space: nowrap;
+    margin: 0 auto;
+    width: fit-content;
+    font-size: 40px
+}
+
+.static-text {
+    font-size: 2.6rem;
+}
+
+.typed-text {
+    animation: typing 4s steps(40, end) infinite;
+    border-right: 0.1px solid black;
+    white-space: nowrap;
+    color: darkcyan;
+    font-weight: 700;
+    overflow: hidden;
+}
+
+@keyframes typing {
+    from { width: 0; }
+    to { width: 100%; }
+}
+
+   </style>
+</head>
+<body>
+    <div class="slider-container">
+        <span class="static-text">Nerd Blogs: Your source to &nbsp;</span>
+        <span class="typed-text"></span>
+    </div>
+<script>
+const typedTextElement = document.querySelector('.typed-text');
+const textOptions = ['Programming', 'Tech News', 'Artificial Intelligence', 'Machine Learning', 'Robotics', 'Computer Hardware', 'IT etc'];
+let currentTextIndex = 0;
+
+function typeWriter() {
+  const currentText = textOptions[currentTextIndex];
+  const textLength = currentText.length;
+  let typedText = '';
+
+  for (let i = 0; i < textLength; i++) {
+    setTimeout(() => {
+      typedText += currentText[i];
+      typedTextElement.textContent = typedText;
+    }, i * 100);
+  }
+
+  setTimeout(() => {
+    currentTextIndex = (currentTextIndex + 1) % textOptions.length;
+    typeWriter();
+  }, textLength * 100 + 500);
+}
+
+typeWriter();
+
+       </script>
+   
+    
+</body>
+</html>
